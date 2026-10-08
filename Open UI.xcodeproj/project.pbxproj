@@ -381,14 +381,14 @@
 				38EB667A2F39CE5A00AED774 /* Frameworks */,
 				38EB667B2F39CE5A00AED774 /* Resources */,
 				38A141942F4B9A1A00697C6F /* Embed Foundation Extensions */,
-				38WATCH0E2F0000000000000E /* Embed Watch Content */,
+
 			);
 			buildRules = (
 			);
 			dependencies = (
 				3852C7212F71110900283682 /* PBXTargetDependency */,
 				38SHARE0B2F0000000000000B /* PBXTargetDependency */,
-				38WATCH0B2F0000000000000B /* PBXTargetDependency */,
+
 			);
 			fileSystemSynchronizedGroups = (
 				38EB667F2F39CE5A00AED774 /* Open UI */,
